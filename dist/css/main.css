@@ -197,7 +197,7 @@
 }
 
 .about__bio-image--captchaos {
-  height: 100vh;
+  height: 70vh;
   width: 100%;
   background: -webkit-gradient(linear, left top, right top, from(rgba(34, 29, 29, 0.9)), to(rgba(34, 29, 29, 0.3))), url("../img/captchaos-logo.png") center top;
   background: linear-gradient(to right, rgba(34, 29, 29, 0.9), rgba(34, 29, 29, 0.3)), url("../img/captchaos-logo.png") center top;
@@ -276,8 +276,8 @@
 .about__bio-image-samen {
   height: 70vh;
   width: 100%;
-  background: -webkit-gradient(linear, left top, right top, from(rgba(34, 29, 29, 0.9)), to(rgba(34, 29, 29, 0.3))), url("dist/img/samen-logo.png") center top;
-  background: linear-gradient(to right, rgba(34, 29, 29, 0.9), rgba(34, 29, 29, 0.3)), url("dist/img/samen-logo.png") center top;
+  background: -webkit-gradient(linear, left top, right top, from(rgba(34, 29, 29, 0.9)), to(rgba(34, 29, 29, 0.3))), url("../img/samen-logo.png") center top;
+  background: linear-gradient(to right, rgba(34, 29, 29, 0.9), rgba(34, 29, 29, 0.3)), url("../img/samen-logo.png") center top;
   background-size: cover;
   display: -webkit-box;
   display: -ms-flexbox;
